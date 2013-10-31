@@ -1,0 +1,23 @@
+{
+  "name": "address-gps",
+  "version": "0.0.1",
+  "description": "Retrieve GPS coordinates and readable address for a given address via the Google maps API",
+  "private": false,
+  "engines": {
+    "node": ">= 0.8.14",
+    "npm": "1.1.x"
+  },
+  "main": "address-gps",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Maciek416/address-gps.git"
+  },
+  "dependencies": {
+    "request": "2.27.0"
+  },
+  "keywords": [
+    "address", "gps", "googlemaps"
+  ],
+  "author": "Maciej Adwent (http://github.com/Maciek416)",
+  "license": "BSD"
+}
